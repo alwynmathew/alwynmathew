@@ -1,16 +1,13 @@
-### Hi there 👋
+# Alwyn Mathew 👋
 
-<!--
-**alwynmathew/alwynmathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*PhD student :mortar_board: at IIT Patna* ✨
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Computer Vision, Geometry and robotics :computer: :rocket:
+* Reinforcement Learning :balloon:
+
+## Get in touch
+
+* [alwynm.github.io](https://alwynm.github.io/) :bulb:
+* :email: alwyn "dot" pcs16 "at" iitp "dot" ac "dot" in 
