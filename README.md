@@ -1,4 +1,4 @@
-# Hi there, I'm Alwyn Mathew 👋
+![Computer Vision Research](https://github.com/alwynmathew/alwynmathew/blob/main/banner.png)
 
 PhD candidate at [Indian Institute of Technology (IIT) Patna](https://www.iitp.ac.in)
 
@@ -25,5 +25,6 @@ PhD candidate at [Indian Institute of Technology (IIT) Patna](https://www.iitp.a
 
 ## Get in touch
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='e' height='40'>](mailto:alwyn.pcs16@iitp.ac.in) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alwynmathew/)
+
 :link: [alwynm.github.io](https://alwynm.github.io/) </br>
-:mailbox_with_mail: [alwyn [DOT] pcs16 [AT] iitp [DOT] ac [DOT] in](mailto:alwyn.pcs16@iitp.ac.in)
