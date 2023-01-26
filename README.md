@@ -1,6 +1,6 @@
 ![Computer Vision Research](https://github.com/alwynmathew/alwynmathew/blob/main/banner.png)
 
-PhD candidate at [Indian Institute of Technology (IIT) Patna](https://www.iitp.ac.in)
+[Research Associate]() at Department of Engineering, [University of Cambridge](https://cit.eng.cam.ac.uk)
 
 ## Research Interests
 
